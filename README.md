@@ -1,4 +1,4 @@
-# 🛍️ LLM-Based E-Commerce Fashion Recommender
+#  LLM-Based E-Commerce Fashion Recommender
 
 **AI-powered fashion recommendation system leveraging LLMs, embeddings, and retrieval techniques to deliver personalized shopping experiences.**
 
@@ -189,17 +189,6 @@ Contributions are welcome! If you’d like to contribute:
 
 For major changes, please open an issue first to discuss what you’d like to change.
 
----
 
-## ⭐ Star This Repo!
-
-If you find this project useful, don’t forget to **⭐ star** the repository! 🚀✨
-
----
-
-### 📩 Contact
-
-👤 **Amine**\
-💼 [**LinkedIn**](https://linkedin.com/in/akroutamine)
 
 ---
